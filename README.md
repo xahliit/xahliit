@@ -1,16 +1,31 @@
-## Hi there 👋
-
-<!--
-**xahliit/xahliit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<body>
+  <h1>Notes</h1>
+  Hi, I'm Jason.
+    <h2>Connect</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Social</th>
+                <th>Direct Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                      <td>Keybase:</td>
+                <td><a href="https://keybase.io/c_v1">@c_v1</a></td>
+            </tr>
+            <tr>
+                <td>Signal</td>
+                <td><a href="https://signal.me/#eu/machine.01">@machine.01</a></td>
+            </tr>
+            <tr>
+                <td>Bandcamp:</td>
+                <td><a href="https://bandcamp.com/core-v1">core-v1</a></td>
+            </tr>
+             <tr>
+                <td>SoundCloud:</td>
+                <td><a href="https://soundcloud.com/core-v1">core-v1</a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
