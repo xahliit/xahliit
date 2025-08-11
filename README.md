@@ -19,11 +19,11 @@
                 <td align="left"><a href="https://signal.me/#eu/machine.01" rel="nofollow">@machine.01</a></td>
             </tr>
             <tr>
-                <td align="left">Bandcamp</td>
+                <td align="left">Bandcamp collection</td>
                 <td align="left"><a href="https://bandcamp.com/core-v1" rel="nofollow">core-v1</a></td>
             </tr>
              <tr>
-                <td align="left">SoundCloud</td>
+                <td align="left">SoundCloud reposts</td>
                 <td><a href="https://soundcloud.com/core-v1" rel="nofollow">core-v1</a></td>
             </tr>
         </tbody>
